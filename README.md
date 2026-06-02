@@ -19,4 +19,9 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/mustafatekiinn/LeetCode-Solutions/tree/master/0007-reverse-integer) |
+| [0069-sqrtx](https://github.com/mustafatekiinn/LeetCode-Solutions/tree/master/0069-sqrtx) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/mustafatekiinn/LeetCode-Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
